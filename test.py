@@ -1,5 +1,9 @@
 def Holu():
-  print("hi")
+    print("hi")
+
+
 def Tap():
-  print("second tab")
+    print("second tab")
+
+
 print(Tap())
